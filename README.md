@@ -1,2 +1,2 @@
-# wordpress-newsletter-subscriber
+# Wordpress Newsletter Subscriber
 Basic newsletter subscriber
